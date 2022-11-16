@@ -1,0 +1,28 @@
+/* Card Container */
+.card {
+    box-sizing: border-box;
+    background-color: #D9D9D9;
+    
+    height: 500px;
+    /* width: 500px; */
+    border-radius: 20px;
+    padding: 24px;
+  
+  }
+  
+  /* Image Container */
+  .image {
+    box-sizing: border-box;
+    background-color: aliceblue;
+
+    border-radius: 20px;
+    padding: 16px;
+
+    background: #e0e0e0;
+    box-shadow: inset 20px 20px 60px #bebebe,
+                inset -20px -20px 60px #ffffff;
+  }
+  .image img {
+    height: 230px;
+    filter: drop-shadow(0 0.5rem 0.5rem #bebebe);
+  }

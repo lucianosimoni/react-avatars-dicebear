@@ -13,6 +13,8 @@ All the Avaliable:
 
 how to use:
 
+https://avatars.dicebear.com/api/SPRITE_NAME/SEED.svg
+
 h ttps://avatars.dicebear.com/api/ ***SPRITE_NAME*** / ***SEED*** .svg
 
 - ***SPRITE_NAME***: adventurer

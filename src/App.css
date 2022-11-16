@@ -1,3 +1,17 @@
 .App {
   text-align: center;
 }
+
+h1 {
+  font-weight: normal;
+  margin: 2rem auto;
+  width: fit-content;
+}
+
+.card-wrapper {
+  display: grid;
+  overflow: hidden;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0 5rem;
+  gap: 24px;
+}
